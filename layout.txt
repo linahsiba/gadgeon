@@ -1,0 +1,42 @@
+Home
++---------------------------------------+
+|   Home    About   Contact Services    |
+|                                       |
+|   {Image1}    {Image2}    {Image3}    |
+|                                       |
+|             {Information}             |
++---------------------------------------+
+
+About
++---------------------------------------+
+|   Home    About   Contact Services    |
+|                                       |
+|               {Image4}                |
+|                                       |
+|             {Information}             |
++---------------------------------------+
+
+Contact
++---------------------------------------+
+|   Home    About   Contact Services    |
+|                                       |
+|       Name        {TextField}         |
+|       Email       {EmailField}        |
+|       Location    {TextField}         |
+|       Phone no.   {NumField}          |
+|                                       |
+|           {SubmitButton}              |
++---------------------------------------+
+
+Services
++---------------------------------------+
+|   Home    About   Contact Services    |
+|                                       |
+|    [Title1]   [Title1]   [Title1]     |
+|    {Image1}   {Image2}   {Image3}     |
+|    [Desc1]    [Desc2]    [Desc3]      |
+|                                       |
+|    [Title4]   [Title5]   [Title6]     |
+|    {Image4}   {Image5}   {Image6}     |
+|    [Desc4]    [Desc5]    [Desc6]      |
++---------------------------------------+
